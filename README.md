@@ -15,6 +15,9 @@ description: >-
 
 There are two primary components \(units of execution\) in this system.
 
+1. **Server** - provides an interface for accessing, modifying game state, calculating and returning the best move.
+2. **Client** - provides an interface for playing a game through a GUI and input curent rack with a full 7 letters
+
   
 
 
