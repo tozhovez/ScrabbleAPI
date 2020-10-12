@@ -11,7 +11,16 @@ description: >-
 * To created a Scrabble game simulator which allows detecting if words are valid or not. 
 * Also to implement an AI to play words that maximize score according to tile/word bonuses and point values of letters.
 
+**Architecture**
+
+There are two primary components \(units of execution\) in this system.
+
   
+
+
+
+
+
 
   
 
